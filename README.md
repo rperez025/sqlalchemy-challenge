@@ -22,3 +22,14 @@ _Precipitation Analysis_
 6. Plotted the results by using the DataFrame plot method.
 7. Used Pandas to print the summary statistics for the precipitation data.
 
+_Station Analysis_
+1. Designed a query to calculate the total number of stations in the dataset.
+2. Designed a query to find the most-active stations (that is, the stations that have the most rows) by completing the following:
+   - List the stations and observation counts in descending order.
+   - Determined which station id has the greatest number of observations?
+3. Designed a query that calculates the lowest, highest, and average temperatures that filters on the most-active station id found in the previous query.
+4. Designed a query to get the previous 12 months of temperature observation (TOBS) data by completing the following:
+   - Filtered by the station that has the greatest number of observations.
+   - Queried the previous 12 months of TOBS data for that station.
+   - Plotted the results as a histogram with bins=12.
+5. Close your session.
