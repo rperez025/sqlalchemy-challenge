@@ -60,3 +60,10 @@ Since I have completed my initial analysis, I will design a Flask API based on t
    - For a specified start, calculated TMIN, TAVG, and TMAX for all the dates greater than or equal to the start date.
    - For a specified start date and end date, calculated TMIN, TAVG, and TMAX for the dates from the start date to the end date, inclusive.
 
+**RESOURCES AND REFERENCES**
+During the challenge, I referenced the following to aid in my understanding and completion of the assignment:
+
+1. Reviewed and reperformed a majority of the class activities in my GitLab Working Folder.
+
+2. Reviewed the following instructor videos from Dr. A:
+   * [SQLAlchemy Unit - Day 03 - Activity #11 - Chinook Database Analysis (Demo)](https://www.youtube.com/watch?v=y8C_NuCo_7o)
