@@ -37,6 +37,7 @@ _Station Analysis_
 5. Close your session.
 
 **PART 2: Design Your Climate App**
+
 Since I have completed my initial analysis, I will design a Flask API based on the queries that I just developed using Flask to create my routes as follows:
 
 1. /
