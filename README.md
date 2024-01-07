@@ -67,7 +67,5 @@ During the challenge, I referenced the following to aid in my understanding and 
 
 2. Reviewed the following instructor videos from Dr. A:
    * [SQLAlchemy Unit - Day 03 - Activity #11 - Chinook Database Analysis (Demo)](https://www.youtube.com/watch?v=y8C_NuCo_7o)
-
-3. I also used the following code as reference for performing my assignment. Specifically, I reviewed and followed along in the video to gain an understanding of its organization and use. I then took that understanding and incorporated my knowledge and practice from the class activities to write my scripts in  [Module 10 Challenge Walkthrough (Updated)](https://www.youtube.com/watch?v=pEj9v-zxMv0)
-
-
+   * [Module 10 Challenge Walkthrough (Updated)](https://www.youtube.com/watch?v=pEj9v-zxMv0)
+     - I referenced the above code in the video for performing my assignment. Specifically, I reviewed and followed along in the video to gain an understanding of its organization and use. I then took that understanding and incorporated my knowledge and practice from the class activities to write my scripts in [climate_analysis-FINAL.ipynb](https://github.com/rperez025/sqlalchemy-challenge/blob/main/SurfsUp/climate_analysis-FINAL.ipynb) and [app.py](https://github.com/rperez025/sqlalchemy-challenge/blob/main/SurfsUp/app.py)
